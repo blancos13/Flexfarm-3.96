@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.763,=C:\Users\alper\Documents\Embarcadero\Studio\Projects\crypt.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,C:\Users\alper\Documents\Embarcadero\Studio\Projects\Server.cbproj=C:\Users\alper\Documents\Embarcadero\Studio\Projects\Server.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,=C:\Users\alper\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,C:\Users\alper\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\alper\Documents\Embarcadero\Studio\Projects\Server.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,=C:\Users\alper\OneDrive\Important Stuff\My C++ Libraries\Security\crypt.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,=C:\Users\alper\OneDrive\Important Stuff\My C++ Libraries\Security\cryptlib_bds.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.488,C:\Users\alper\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\alper\Documents\Embarcadero\Studio\Projects\ServerPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.804,=C:\Users\alper\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.946,C:\Users\alper\OneDrive\Important Stuff\My C++ Libraries\Security\crypt.h=</Transaction>
+  </Transactions>
+</BorlandProject>
